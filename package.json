@@ -8,7 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
-    "homepage": "https://<your-username>.github.io/<repo-name>"
+    "homepage": "https://VivekKumarPatva.github.io/Todo-App"
+
   },
   "dependencies": {
     "react": "^19.2.0",
